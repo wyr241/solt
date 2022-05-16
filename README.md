@@ -4,7 +4,11 @@ with Anchor framework
 In **solt** folder run:
 
 > anchor build
+
+
 > anchor deploy
+
+
 > anchor test
 
 For more options run:
