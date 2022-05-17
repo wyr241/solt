@@ -1,4 +1,5 @@
-# solt
+# Not finished. Still in process...
+# solt - solana transactions
 Motivated from https://github.com/max-block/solana-examples.git
 with Anchor framework
 In **solt** folder run:
